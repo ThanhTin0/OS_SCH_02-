@@ -1,0 +1,4 @@
+ProcessID,Arrival_Time,Burst_Time,Priority,Start_Time,Completion_Time,Turnaround_Time,Waiting_Time
+P1,0,10,3,0,10,10,0
+P2,1,6,1,10,16,15,9
+P3,3,2,4,16,18,15,13
