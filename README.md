@@ -1,22 +1,20 @@
-# 🖥️ CPU Scheduling Demonstration App
-**Project Code:** OS_SCH_02
-**University:** UTH
+# 💻 Ứng dụng GUI Mô phỏng Lập lịch CPU
+**Mã học phần:** 012012500106 | **Project Code:** OS_SCH_02 | **Trường:** UTH
 
-## 👥 Nhóm thực hiện ** OS Group 06
-Danh sách thành viên :
-
-Nguyễn Minh Hoàng
-
-Nguyễn Quang Minh
-
-Nguyễn Nhật Tân
-
-Nguyễn Lữ Hoà Thịnh
-
-Đoàn Thanh Tín
-
-Nguyễn Tiến Trung
-
+## 👥 Nhóm thực hiện: Nhóm 6
+* Nguyễn Minh Hoàng
+* Nguyễn Quang Minh
+* Nguyễn Nhật Tân
+* Nguyễn Lữ Hòa Thịnh
+* Đoàn Thanh Tín (Team Lead)
+* Nguyễn Tiến Trung
 
 ## 📝 Mô tả dự án
-Ứng dụng GUI mô phỏng thuật toán lập lịch CPU: FCFS và Priority (Non-preemptive).
+Ứng dụng giao diện đồ họa (GUI) sử dụng Tkinter để mô phỏng và trực quan hóa hoạt động của 2 thuật toán lập lịch CPU cơ bản:
+* **FCFS** (First-Come, First-Served)
+* **Priority** (Non-preemptive - Độc quyền)
+
+## 🚀 Hướng dẫn cài đặt và sử dụng
+**Bước 1:** Cài đặt các thư viện cần thiết để vẽ biểu đồ Gantt:
+```bash
+pip install -r Code/requirements.txt
