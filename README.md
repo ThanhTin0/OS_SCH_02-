@@ -15,6 +15,11 @@
 * **Priority** (Non-preemptive - Độc quyền)
 
 ## 🚀 Hướng dẫn cài đặt và sử dụng
-**Bước 1:** Cài đặt các thư viện cần thiết để vẽ biểu đồ Gantt:
+**Bước 1:** Cài đặt các thư viện cần thiết:
 ```bash
 pip install -r Code/requirements.txt
+```
+
+**Bước 2:** Khởi chạy ứng dụng:
+```bash
+python Code/main_gui.py
