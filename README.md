@@ -23,3 +23,6 @@ pip install -r Code/requirements.txt
 **Bước 2:** Khởi chạy ứng dụng:
 ```bash
 python Code/main_gui.py
+## 🎥 Video Báo Cáo Đồ Án
+Nhóm thực hiện quay video báo cáo lộ mặt thành viên, trình bày slide và demo ứng dụng chạy thực tế:
+* **Link xem video (Google Drive):** [Nhấn vào đây để xem video báo cáo của Nhóm 6]https://drive.google.com/drive/folders/1mDD64fAplMuGp9OkZTqT813w8QcDsT9d
